@@ -20,3 +20,8 @@
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы 
   -  [Название проектв](https://ссылочку_сюда)
+
+## Мои контакты
+
+[![Linkedin: kateeeby](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kateeeby/)
+[![Telegram kateeby](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kateeby)
