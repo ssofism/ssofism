@@ -1,5 +1,10 @@
-## Hello 👋, I'm Kate✨
+### Hello 👋, I'm Kate✨
 
+<div align="center">
+
+![GIF](https://i.imgur.com/IkdLIvu.gif)
+  
+</div>
 <!--
 **ssofism/ssofism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
