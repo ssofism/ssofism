@@ -12,7 +12,7 @@
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Чек-листы](https://drive.google.com/drive/folders/1s8t7epyp0Wu8uNuu0qx6snvEHeSIkNQv?usp=sharing)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
 - Коллекция в Postman 
