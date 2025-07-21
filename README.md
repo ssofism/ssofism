@@ -13,8 +13,8 @@
 ## Портфолио 
 - Тестовая документация
   -  [Чек-листы](https://drive.google.com/drive/folders/1s8t7epyp0Wu8uNuu0qx6snvEHeSIkNQv?usp=sharing)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://drive.google.com/drive/folders/1hWIJta5fZ-m1dwiOnPGrvwo-izGDNd5r?usp=sharing)
+  -  [Баг-репорты](https://drive.google.com/drive/folders/1P-s4aexJI2I4vvFOVknrYrT7rXj6hY-E?usp=sharing)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы 
