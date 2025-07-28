@@ -8,7 +8,7 @@
 
 ## CV 
 
-[Здесь будет сслыка на резюме](https://ссылочку_сюда)
+[Здесь будет сслыка на резюме](https://drive.google.com/file/d/1IfdwdrISL9-cE46__N1WIzopC8ykIamQ/view?usp=sharing)
 
 ## Портфолио 
 - Тестовая документация
